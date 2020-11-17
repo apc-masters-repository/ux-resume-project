@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name":"Kyle Garcia",
+    "occupation":"Game Programmer",
+    "description":"I have served as project leads in companies. One of which I helped saved costs in their production and helped junior developers, artists, and designers to grow. ",
+    "image":"profilepic.jpg",
+    "bio":"I have been working as a programmer for 5 years already since graduating from AB Multimedia Arts. Although my undergraduate is art-related, I have shifted my focus to become a programmer instead. Currently, I am pursuing a graduate degree in Computer Science. Over the years I have worked in different technologies such as Game Development, Web Development, and Backend Development. My main expertise is programming and I have created different software for different purposes in different languages such as C#, JavaScript, C++, Java, Python, Go Lang, and many more.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "kkpgarcia@gmail.com",
+    "phone": "By Request",
+    "address":{
+      "street":"By Request",
+      "city":"Quezon City",
+      "state":"Philippines",
+      "zip": "By Request"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Asia Pacific College",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"On Going",
+        "description":""
+      },
+      {
+        "school":"Asia Pacific College",
+        "degree":"Bachelor of Arts in Multimedia Arts",
+        "graduated":"May 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Play 'N Go Philippines",
+        "title":"Senior Software Developer",
+        "years":"September 2020 - Present",
+        "description":"Mainly do client game programming and maintenance for casino games."
+      },
+      {
+        "company":"Narrasoft Inc.",
+        "title":"Senior Unity Developer",
+        "years":"June 2019 - January 2020",
+        "description":"."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Game Development",
+        "level":"90%"
+      },
+      {
+        "name":"Mobile Development",
+        "level":"60%"
+      },
+      {
+        "name":"Server Development",
+        "level":"80%"
+      },
+      {
+        "name":"Game Engineering",
+        "level":"90%"
+      },
+      {
+        "name":"Unity Engine",
+        "level":"100%"
+      },
+      {
+        "name":"C#",
+        "level":"100%"
+      },
+      {
+        "name":"C++",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Go",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"REST",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"CITAS",
+        "image":"1.png"
+      },
+      {
+        "title":"FASSSTER",
+        "image":"2.png"
+      },
+      {
+        "title":"Definite Poker",
+        "image":"Definite Poker.png"
+      },
+      {
+        "title":"Hop Pico Piko",
+        "image":"hop pico piko.png"
+      },
+      {
+        "title":"Kuna",
+        "image":"kuna.png"
+      },
+      {
+        "title":"Pop Puff and Away",
+        "image":"poppuff.png"
+      },
+      {
+        "title":"Street Kart",
+        "image":"sk.jpg"
+      },
+      {
+        "title":"Sean-Kyle Engine",
+        "image":"skengine.png"
+      },
+      {
+        "title":"Stella Engine",
+        "image":"stellengine.png"
+      },
+      {
+        "title":"Tofu Heroes",
+        "image":"tofuh.jpg"
+      },
+      {
+        "title":"Zephyr",
+        "image":"Zephyr.png"
+      }
+    ]
+  }
+}
